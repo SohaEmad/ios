@@ -51,7 +51,6 @@
 		E1510197243B5E4800AE89D9 /* c++withIosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "c++withIosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E151019B243B5E4800AE89D9 /* c__withIosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = c__withIosUITests.swift; sourceTree = "<group>"; };
 		E151019D243B5E4800AE89D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E15101AA243B5EBD00AE89D9 /* libjunkcpp.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libjunkcpp.a; path = ../../CLionProjects/junk/libjunkcpp.a; sourceTree = "<group>"; };
 		E15101D9243B66BD00AE89D9 /* junk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = junk.h; path = ../../CLionProjects/junk/junk.h; sourceTree = "<group>"; };
 		E15101DA243B66D300AE89D9 /* c++withIos-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "c++withIos-Bridging-Header.h"; sourceTree = "<group>"; };
 		E15101DB243B66D400AE89D9 /* wrapper.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = wrapper.cpp; sourceTree = "<group>"; };
@@ -144,7 +143,6 @@
 			isa = PBXGroup;
 			children = (
 				E15101DD243B679600AE89D9 /* ljunkcpp.a */,
-				E15101AA243B5EBD00AE89D9 /* libjunkcpp.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

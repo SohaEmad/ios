@@ -1,0 +1,3 @@
+/Users/sohaahmed/CLionProjects/junk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sohaahmed/CLionProjects/junk/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sohaahmed/CLionProjects/junk/cmake-build-debug/CMakeFiles/junk.dir
